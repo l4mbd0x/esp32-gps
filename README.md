@@ -7,8 +7,8 @@ Note: Beware that the gps sensor might take about 30s after correctly connected 
 Note2: This code has been tested inside a house, while raining heavily outside and that made the initial connection take 1 min, working fine after that.
 
 # Screeshots
-- When finding gps signal ![image_1](https://github.com/lambd0x/esp32-gps/blob/master/screenshot/finding_gps_signal.png)
-- When gps info is caught ![image_2](https://github.com/lambd0x/esp32-gps/blob/master/screenshot/getting_gps_info.png)
+- When finding gps signal ![image_1](https://github.com/l4mbd0x/esp32-gps/blob/master/screenshots/finding_gps_signal.png)
+- When gps info is caught ![image_2](https://github.com/l4mbd0x/esp32-gps/blob/master/screenshots/getting_gps_info.png)
 
 # Features
 - [x] GPS ID
